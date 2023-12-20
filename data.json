@@ -1,0 +1,39 @@
+{
+  "company": "XYZ Corp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "departments": ["Engineering", "Development"],
+      "contact": {
+        "email": "john.doe@example.com",
+        "phone": "555-1234"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "Data Scientist",
+      "departments": ["Data Science", "Research"],
+      "contact": {
+        "email": "jane.smith@example.com",
+        "phone": "555-5678"
+      }
+    }
+  ],
+  "departments": [
+    {
+      "name": "Engineering",
+      "location": "Building A"
+    },
+    {
+      "name": "Data Science",
+      "location": "Building B"
+    },
+    {
+      "name": "Research",
+      "location": "Building C"
+    }
+  ]
+}
